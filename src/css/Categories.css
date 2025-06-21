@@ -1,0 +1,39 @@
+.categories-page {
+  padding: 1rem;
+}
+
+.genres-list {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.genres-list button {
+  background-color: #444;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.genres-list button:hover {
+  background-color: #666;
+}
+
+.genres-list button.active {
+  background-color: #ff4757;
+}
+
+.section-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 1rem;
+  margin: 2rem 0 1rem;
+  border-left: 5px solid #e50914;
+  background-color: #1c1c1c;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}

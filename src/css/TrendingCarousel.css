@@ -1,0 +1,24 @@
+
+.trending-carousel {
+  padding: 2rem;
+  background-color: #000; /* black like Netflix */
+  color: white;
+}
+
+.trending-carousel h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.trending-grid {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+}
+
+.trending-grid-item {
+  position: relative;
+}
+
+
