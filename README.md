@@ -1,12 +1,49 @@
-# React + Vite
+# 🎬 WatchWave  
+React · GitHub Pages · MIT License
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and minimalistic movie browsing app built with React.  
+Explore top movies, browse categories, and save your favorites — all in a smooth, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 **Live Demo**  
+👉 [Try WatchWave](https://Gayaltil954.github.io/watch_wave/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌟 **Features**
+
+🎥 Browse featured movies  
+📂 Explore by categories  
+⭐ Save your favorites  
+🧭 Smooth navigation with React Router  
+⚡ Built with Vite for lightning-fast performance  
+📱 Fully responsive on all screen sizes  
+
+---
+
+🛠️ **Tech Stack**  
+React · React Router · Context API · Vite · CSS · GitHub Pages
+
+---
+
+📦 **Quick Start**
+
+```bash
+git clone https://github.com/Gayaltil954/watch_wave.git
+cd watch_wave
+npm install
+npm run dev
+
+🎓 What I Learned
+
+✅ Structuring a real-world React project
+✅ Managing global state with Context API
+✅ Client-side routing with React Router v7
+✅ Component reusability and styling
+✅ Deploying apps with GitHub Pages
+✅ Linting and clean code practices
+
+👨‍💻 About Me
+Created with passion by Gayal[https://github.com/Gayaltil954]
+Let’s connect and collaborate on LinkedIn[http://www.linkedin.com/in/gayaltil55]
